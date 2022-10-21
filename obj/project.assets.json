@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "/Users/samlaguna/.nuget/packages/": {}
+    "/Users/brandonle/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/samlaguna/Documents/Level1/SLagunaMiniCH#3Redo/SLagunaMiniCH#3Redo.csproj",
+      "projectUniqueName": "/Users/brandonle/Desktop/GitRepository/https---github.com-SamuelLaguna-LagunaSMiniCH-3Redo/SLagunaMiniCH#3Redo.csproj",
       "projectName": "SLagunaMiniCH#3Redo",
-      "projectPath": "/Users/samlaguna/Documents/Level1/SLagunaMiniCH#3Redo/SLagunaMiniCH#3Redo.csproj",
-      "packagesPath": "/Users/samlaguna/.nuget/packages/",
-      "outputPath": "/Users/samlaguna/Documents/Level1/SLagunaMiniCH#3Redo/obj/",
+      "projectPath": "/Users/brandonle/Desktop/GitRepository/https---github.com-SamuelLaguna-LagunaSMiniCH-3Redo/SLagunaMiniCH#3Redo.csproj",
+      "packagesPath": "/Users/brandonle/.nuget/packages/",
+      "outputPath": "/Users/brandonle/Desktop/GitRepository/https---github.com-SamuelLaguna-LagunaSMiniCH-3Redo/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/samlaguna/.nuget/NuGet/NuGet.Config"
+        "/Users/brandonle/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
