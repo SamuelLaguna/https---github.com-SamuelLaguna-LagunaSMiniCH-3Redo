@@ -1,0 +1,15 @@
+/Users/samlaguna/Documents/Level1/SLagunaMiniCH#3Redo/bin/Debug/net6.0/SLagunaMiniCH#3Redo
+/Users/samlaguna/Documents/Level1/SLagunaMiniCH#3Redo/bin/Debug/net6.0/SLagunaMiniCH#3Redo.deps.json
+/Users/samlaguna/Documents/Level1/SLagunaMiniCH#3Redo/bin/Debug/net6.0/SLagunaMiniCH#3Redo.runtimeconfig.json
+/Users/samlaguna/Documents/Level1/SLagunaMiniCH#3Redo/bin/Debug/net6.0/SLagunaMiniCH#3Redo.dll
+/Users/samlaguna/Documents/Level1/SLagunaMiniCH#3Redo/bin/Debug/net6.0/SLagunaMiniCH#3Redo.pdb
+/Users/samlaguna/Documents/Level1/SLagunaMiniCH#3Redo/obj/Debug/net6.0/SLagunaMiniCH#3Redo.csproj.AssemblyReference.cache
+/Users/samlaguna/Documents/Level1/SLagunaMiniCH#3Redo/obj/Debug/net6.0/SLagunaMiniCH#3Redo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samlaguna/Documents/Level1/SLagunaMiniCH#3Redo/obj/Debug/net6.0/SLagunaMiniCH#3Redo.AssemblyInfoInputs.cache
+/Users/samlaguna/Documents/Level1/SLagunaMiniCH#3Redo/obj/Debug/net6.0/SLagunaMiniCH#3Redo.AssemblyInfo.cs
+/Users/samlaguna/Documents/Level1/SLagunaMiniCH#3Redo/obj/Debug/net6.0/SLagunaMiniCH#3Redo.csproj.CoreCompileInputs.cache
+/Users/samlaguna/Documents/Level1/SLagunaMiniCH#3Redo/obj/Debug/net6.0/SLagunaMiniCH#3Redo.dll
+/Users/samlaguna/Documents/Level1/SLagunaMiniCH#3Redo/obj/Debug/net6.0/refint/SLagunaMiniCH#3Redo.dll
+/Users/samlaguna/Documents/Level1/SLagunaMiniCH#3Redo/obj/Debug/net6.0/SLagunaMiniCH#3Redo.pdb
+/Users/samlaguna/Documents/Level1/SLagunaMiniCH#3Redo/obj/Debug/net6.0/SLagunaMiniCH#3Redo.genruntimeconfig.cache
+/Users/samlaguna/Documents/Level1/SLagunaMiniCH#3Redo/obj/Debug/net6.0/ref/SLagunaMiniCH#3Redo.dll
